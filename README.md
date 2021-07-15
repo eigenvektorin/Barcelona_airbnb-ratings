@@ -24,12 +24,13 @@ This project requires Python 3.* and the following Python libraries installed:
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I analysed data from Airbnb listings for Barcelona. The project aims at addressing the following business questions:
+For this project, I analysed data from Airbnb listings for Barcelona. The project aims at addressing the following business questions, by following the Cross-Industry Standard Process for Data Mining (CRISP-DM):
+
 * Are there neighbourhoods that are more likely to have higher ratings than others?
 * What impact does the price of accommodation have on ratings?
 * What other factors can affect the ratings?
 
-It follows Cross-Industry Standard Process for Data Mining (CRISP-DM) 
+
 
 
 ## File Descriptions <a name="files"></a>

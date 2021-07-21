@@ -45,6 +45,7 @@ This repository contains the following files:
 
 The main findings of the code can be found at the post available [here]().
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Acknowledgements<a name="licensing"></a>
 
-
+* [Inside Airbnb](http://insideairbnb.com/)
+* [Udacity](https://www.udacity.com/)

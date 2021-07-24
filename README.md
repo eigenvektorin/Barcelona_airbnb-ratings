@@ -43,7 +43,7 @@ This repository contains the following files:
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@eigenvektorin/what-vicky-and-cristina-would-have-loved-in-barcelona-f9fccad75e63).
 
 ## Acknowledgements<a name="licensing"></a>
 
